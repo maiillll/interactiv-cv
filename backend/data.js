@@ -18,10 +18,15 @@ const skills = [
     { name: 'Git & GitHub', level: 'Pemula' }, { name: 'HTML5 & CSS3', level: 'Pemula' }
 ];
 const projects = [ 
-    { title: 'Notifikasi Damage Game', image: '/src/assets/mendaki.jpeg',
+    { title: 'Mendaki', image: '/src/assets/mendaki.jpeg',
     description: 'Sistem Notifikasi Damage Game Sederhana', tech: ['C#'
 ], link: '#' },
     { title: 'Player MOBA', image:'/src/assets/ml.jpeg' ,
-    description: 'Push Ranks', tech: ['Protheus 8', 'CVAVR'], link: '#' }
+    description: 'Push Ranks', tech: ['#'], link: '' },
+
+    { title: 'Player MOBA', image:'/src/assets/ml.jpeg' ,
+    description: 'Push Ranks', tech: ['Protheus 8', 'CVAVR'], link: '' },
+    { title: 'Player MOBA', image:'/src/assets/ml.jpeg' ,
+    description: 'Push Ranks', tech: ['Protheus 8', 'CVAVR'], link: '' }
 ];
 module.exports = { educationHistory, skills, projects };

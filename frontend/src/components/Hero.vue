@@ -20,7 +20,7 @@
     </div>
     <div class="md:w-1/2 flex justify-center animate-slide-in-right">
       <img
-        src="C:\Users\LENOVO\Documents\portomail\interactiv-cv\frontend\src\assets\mail.jpeg"
+        src="D:\23.11.5514\interactiv-cv\frontend\src\assets\mail.jpeg"
         alt="Foto Profil"
         class="w-80 h-80 rounded-full object-cover shadow-lg"
       />

@@ -19,7 +19,7 @@
         </li>
         <li>
           <a
-            href="#skill"
+            href="#pageskill"
             class="text-gray-600 hover:text-blue-500 transform hover:-translate-y-0.5 transition-all duration300"
             >Skill</a
           >
@@ -33,7 +33,7 @@
         </li>
         <li>
           <a
-            href="#kontak"
+            href=""
             class="text-gray-600 hover:text-blue-500 transform hover:-translate-y-0.5 transition-all duration300"
             >Kontak</a
           >

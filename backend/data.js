@@ -18,10 +18,10 @@ const skills = [
     { name: 'Git & GitHub', level: 'Pemula' }, { name: 'HTML5 & CSS3', level: 'Pemula' },
 ];
 const projects = [ 
-    { title: 'MENDAKI', image: '\src\assets\img\mendaki.jpeg',
+    { title: 'MENDAKI', image: '/interactiv-cv/frontend/src/assets/img/mendaki.jpeg',
     description: 'Final Project Kelompok Pemrograman Web', tech: ['Css# Js# HTML#'
-], link: '' },
-    { title: 'MOBA PLAYER', image: 'D:\porto\Responsicv-main\frontend\src\assets\img\ml.jpeg',
-    description: 'ALL Role', tech: ['-', '-'], link: '#' }
+], link: '#' },
+    { title: 'MOBA PLAYER', image: '/interactiv-cv/frontend/src/assets/img/ml.jpeg',
+    description: 'ALL Role', tech: ['mage', 'tank'], link: '#' }
 ];
 module.exports = { educationHistory, skills, projects };

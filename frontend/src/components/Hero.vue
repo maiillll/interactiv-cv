@@ -15,8 +15,9 @@ Hubungi Saya
 </a>
 </div>
 <div class="md:w-1/2 flex justify-center animate-slide-in-right">
-<img src="D:\porto\Responsicv-main\frontend\src\assets\img\maill.jpeg" alt="Foto Profil" class="w-80 h-80 rounded-full
+<img src="" alt="Foto Profil" class="w-80 h-80 rounded-full
 object-cover shadow-lg">
 </div>
 </section>
 </template>
+

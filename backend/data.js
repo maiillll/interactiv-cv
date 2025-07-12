@@ -8,7 +8,7 @@ const educationHistory = [
     { id: 2,
      period: '2018 - 2021',
      institution: 'SMK INFORMATIKA',
-     major: 'Teknik Komputer Jaringan' 
+     major: 'Teknik Komputer jaringan)' 
     }
 ];
 const skills = [ 
@@ -18,15 +18,10 @@ const skills = [
     { name: 'Git & GitHub', level: 'Pemula' }, { name: 'HTML5 & CSS3', level: 'Pemula' }
 ];
 const projects = [ 
-    { title: 'Mendaki', image: '/src/assets/mendaki.jpeg',
-    description: 'Sistem Notifikasi Damage Game Sederhana', tech: ['C#'
+    { title: 'mendaki', image: 'D:\porto\interactiv-cv\frontend\src\assets\mendaki.jpeg',
+    description: 'ROBOX player', tech: ['C#'
 ], link: '#' },
-    { title: 'Player MOBA', image:'/src/assets/ml.jpeg' ,
-    description: 'Push Ranks', tech: ['#'], link: '' },
-
-    { title: 'Player MOBA', image:'/src/assets/ml.jpeg' ,
-    description: 'Push Ranks', tech: ['Protheus 8', 'CVAVR'], link: '' },
-    { title: 'Player MOBA', image:'/src/assets/ml.jpeg' ,
-    description: 'Push Ranks', tech: ['Protheus 8', 'CVAVR'], link: '' }
+    { title: 'Player MOBA', image: 'D:\porto\interactiv-cv\frontend\src\assets\ml.jpeg',
+    description: 'all role gameplay ', tech: [], link: '#' }
 ];
-module.exports = { educationHistory, skills, projects };
+module.exports = { educationHistory, skills, projects };
